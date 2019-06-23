@@ -4747,7 +4747,7 @@ for(;t!==-1;){s=t===0?0:C.e.lJ(a,"\n",t-1)+1
 if(c===t-s)return s
 t=C.e.h3(a,b,t+1)}return}},F={
 Yo:function(){var u,t,s,r,q,p,o,n,m,l,k,j=null,i=C.a.ga7(window.location.href.split("="))
-new O.pq(P.bV(W.eh)).j3("POST",P.kY("https://github.com/login/oauth/access_token?client_id=Iv1.3fb805f9f054e60a&client_secret=d20badca64ce482e3869f060f20de91e6f3a9b18&code="+H.d(i)),j,j,j).bI(new F.Mu(),j)
+new O.pq(P.bV(W.eh)).j3("POST",P.kY("https://github.com/login/oauth/access_token?client_id=Iv1.3fb805f9f054e60a&client_secret=d20badca64ce482e3869f060f20de91e6f3a9b18&code="+H.d(i)+"&redirect_uri=https://coresmash.github.io/#/auth"),j,j,j).bI(new F.Mu(),j)
 u=A.Ud()
 if($.cW==null){t=N.a2
 s=P.cv(t)
