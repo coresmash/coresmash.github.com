@@ -40,6 +40,7 @@ json_annotation:packages/json_annotation/
 json_rpc_2:packages/json_rpc_2/
 kernel:packages/kernel/
 logging:packages/logging/
+markdown:packages/markdown/
 matcher:packages/matcher/
 meta:packages/meta/
 mime:packages/mime/
@@ -72,6 +73,7 @@ test_api:packages/test_api/
 test_core:packages/test_core/
 timing:packages/timing/
 typed_data:packages/typed_data/
+utf:packages/utf/
 vector_math:packages/vector_math/
 vm_service_client:packages/vm_service_client/
 watcher:packages/watcher/
